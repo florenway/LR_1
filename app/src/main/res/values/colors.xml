@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="screen_background">#F3F5F7</color>
+    <color name="name_gray">#808080</color>
+    <color name="group_red">#FF0000</color>
+    <color name="icon_tint">#1F2933</color>
+</resources>

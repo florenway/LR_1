@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ЛР1</string>
+    <string name="student_name">Кирилл Волошенко</string>
+    <string name="group_name">Т-433901-ИСТ</string>
+    <string name="hide_labels">Скрыть надписи</string>
+    <string name="show_labels">Показать надписи</string>
+    <string name="toggle_image">Скрыть или показать картинку</string>
+    <string name="butterfly_content_description">Бабочка из задания</string>
+</resources>
